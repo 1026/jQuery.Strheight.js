@@ -385,17 +385,19 @@ footer p {
 .demo .fuga {
   border: 3px solid Violet;
 }
-.demo .piyo {
+.demo .piyo,
+.demo .baz {
   padding: 3px;
   border: solid 1px Goldenrod;
 }
-.demo .piyo p {
+.demo .piyo p,
+.demo .baz p {
   margin-bottom: 12px;
   border: solid 3px LightSkyBlue;
 }
-.demo .piyo .foo {
+.demo .baz .foo {
   border: solid 3px tomato;
 }
-.demo .piyo .baa {
+.demo .baz .bar {
   border: solid 3px LimeGreen;
 }
